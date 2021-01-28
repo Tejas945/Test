@@ -14,7 +14,9 @@ If ***Asia Prod 4.csv*** is added to the folder, it should be subsequently added
 
 ## Prerequisites
 Jupyter Notebook
+
 Operating System
+
 Pandas
 
 
