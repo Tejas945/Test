@@ -1,5 +1,5 @@
 
-## Project name: Node Application:
+## Project name: Node Application
 
 
 
