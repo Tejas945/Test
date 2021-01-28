@@ -23,7 +23,7 @@ Pandas
 
 
 ## Usage
-
+Navigate to the Folder Python where it is downloaded. Open the python file and execute each block of code. The intermediate results will appear after each code block.
 
 
 
