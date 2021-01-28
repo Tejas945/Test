@@ -30,11 +30,13 @@ Re(Python regex)
 ## Usage:
 - Navigate to the Folder using Python Jupyter Notebook where it is downloaded. 
 - Open the python file and execute each block of code. 
-- The intermediate results will appear after each code block.
+- The intermediate results will appear after each code block is executed.
 
 
 
 ## Future Work:
+- Detect new file and write processed file names to text file to process only newly added files.
+- Create Cron job to run the combile file at specific time.
 
 ### Contact
 For further queries contact developer at tejas3madappa@gmail.com
