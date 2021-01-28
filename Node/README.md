@@ -50,7 +50,10 @@ Postman(Optional)
 - Check contents of Mongodb using the following command in the Mongo client terminal.
   - >```use employee```
   - >```show collections```
-
+- To stop Mongodb server. Open a new terminal.
+   - Find PID of mongodb process using ```top``` 
+   - exit ```top```
+   - $ ```kill <PID>```
 ## Future work:
 - Enter the API url of choice
 - Create a table in database to store the corresponding values present in the JSON.
