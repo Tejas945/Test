@@ -36,6 +36,7 @@ Postman(Optional)
 
 ## Usage:
 - Use Postman to check if the URL is working by sending a GET request to the URL. 
+- The API must return a JSON object.
 - Install Mongodb server locally.
 - Open a new terminal to start the Mongodb server.(Commands to start Mongodb server will depend on installation)
 - Create a database in the Mongo client named employee.
