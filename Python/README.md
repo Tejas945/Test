@@ -32,3 +32,6 @@ Navigate to the Folder Python where it is downloaded. Open the python file and e
 
 
 ## Future Work:
+
+### Contact
+For further queries contact developer at tejas3madappa@gmail.com
