@@ -13,11 +13,15 @@ If ***Asia Prod 4.csv*** is added to the folder, it should be subsequently added
 
 
 ## Prerequisites:
+Python(3.8.5)
+
 Jupyter Notebook
 
-Operating System
+Operating System(macOS 10.14.6)
 
 Pandas
+
+Re
 
 
 
