@@ -8,7 +8,7 @@
 
 ## Description:
 - Traverse through the files "Engineering Test Files" and generate the ***combined.csv***. 
-- If a new file ***NA Preview.csv***, the script will be able to process it.
+- If a new file ***NA Preview.csv*** is added to the folder, the script will be able to process it.
 - If ***Asia Prod 4.csv*** is added to the folder, it should be subsequently added to  ***combined.csv***.
 
 
