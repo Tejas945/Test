@@ -7,8 +7,9 @@
 
 
 ## Description:
-Traverse through the files "Engineering Test Files" and generate the ***combined.csv***. If a new file ***NA Preview.csv***, the script will be able to process it.
-If ***Asia Prod 4.csv*** is added to the folder, it should be subsequently added to  ***combined.csv***.
+- Traverse through the files "Engineering Test Files" and generate the ***combined.csv***. 
+- If a new file ***NA Preview.csv***, the script will be able to process it.
+- If ***Asia Prod 4.csv*** is added to the folder, it should be subsequently added to  ***combined.csv***.
 
 
 
@@ -21,13 +22,15 @@ Operating System(macOS 10.14.6)
 
 Pandas
 
-Re
+Re(Python regex)
 
 
 
 
 ## Usage:
-Navigate to the Folder using Python Jupyter Notebook where it is downloaded. Open the python file and execute each block of code. The intermediate results will appear after each code block.
+- Navigate to the Folder using Python Jupyter Notebook where it is downloaded. 
+- Open the python file and execute each block of code. 
+- The intermediate results will appear after each code block.
 
 
 
