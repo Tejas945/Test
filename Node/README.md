@@ -19,9 +19,13 @@ This Node application gets a JSON from a test public url.
 
 ## Prerequisites:
 Operating System
+
 Node.js
+
 Express
+
 Mongodb
+
 Postman(Optional)
 
 
