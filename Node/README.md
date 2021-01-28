@@ -35,3 +35,7 @@ Postman(Optional)
 
 
 ## Future work:
+
+### Contact
+For further queries contact developer at tejas3madappa@gmail.com
+
