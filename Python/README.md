@@ -35,7 +35,7 @@ Re(Python regex)
 
 
 ## Future Work:
-- Detect new file and write processed file names to text file to process only newly added files.
+- Process only newly added files by writing processed files to a text file.
 - Create Cron job to run the combile file at specific time.
 
 ### Contact
