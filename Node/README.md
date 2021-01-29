@@ -2,7 +2,7 @@
 ## Project name: Node Application
 
 
-![](Architecture.png)
+
 
 
 
